@@ -2,8 +2,8 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+Chimdee!;Learning Full-Stack+Developer;JLPT+N1+Certified;
-    alt="Typing SVG"
-  />
+    "alt="Typing SVG"
+  >
 </p>
 
 ## 👨‍💻 About Me
