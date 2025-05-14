@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Digital marketing Manager in Mongolia 
-- 🌱 Studying english ielts 9 + Front-end Developer 
+- 🌱 Studying english IELTS 9 + Front-End Developer 
 - 🎓 Bachelor of Arts in Languages 
 
 ## 🐍 Contribution Snake
