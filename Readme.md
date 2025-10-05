@@ -32,5 +32,5 @@
 
 ## 🤹‍♂️ Fun Fact
 
-> I like to drink a coffee ☕, and used to run away from mosquito🦟  
+> I like to drink a coffee ☕, and used to run away from snake🐍 
 > Now I’m **studying how to create website with HTML&CSS** —  
